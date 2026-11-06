@@ -19,6 +19,7 @@
 			neovim
 			tmux
 			git
+			wdisplays
 		];
 	};
 }

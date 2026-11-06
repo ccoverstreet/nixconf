@@ -1,5 +1,5 @@
 {...}: {
-	flake.nixosModules.neoasusConfiguration = {...}: {
+	flake.nixosModules.neoasusConfiguration = {pkgs, ...}: {
 		networking = {
 			hostName = "neoasus";
 		};
