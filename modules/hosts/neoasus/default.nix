@@ -17,7 +17,6 @@
 			waybar
 
 			firefox
-#			rofi
 			rofitabs
 		];
 	};

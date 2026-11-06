@@ -15,6 +15,8 @@
 				extraPackages = with pkgs; [
 					rofi
 					foot
+					killall
+					waybar
 				];
 			};
 
